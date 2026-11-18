@@ -1,0 +1,6 @@
+{
+  "name": "Easily Job Portal",
+  "description": "Job posting and recruitment platform for job seekers and recruiters with resume upload and job management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,11 +1,28 @@
-<div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+###  **Job Posting Website**
 
-  <h1>Built with AI Studio</h2>
+**Project Title:** Job Posting Website
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+**Description:**
+This project is a job posting website similar to Internshala, where users can post jobs and browse available job listings. The website is built using HTML forms and localStorage to manage user login and job postings. Page styling has been applied to enhance user experience.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+**Features:**
+- Job posting and viewing.
+- User login handled through HTML forms and localStorage.
+- File uploads handled with Multer.
 
-</div>
+**Technologies:**
+- HTML, CSS
+- JavaScript (localStorage)
+- Node.js
+- Multer (for file uploads)
+
+**Setup & Execution:**
+1. Clone the repository.
+2. Run `npm install` to install necessary dependencies.
+3. Install multer for file handling: `npm install multer`.
+4. Run `npm start` to start the application.
+
+**How to Use:**
+- Log in using your credentials.
+- Post or apply to job listings.
